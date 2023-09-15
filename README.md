@@ -1,6 +1,12 @@
 # Assignment- excel-challenge
-Completed assignment 0n excel
+Completed assignment on excel
 
+## Instructions
+![image](https://github.com/cnidehen/excel-challenge/assets/128870405/a796e1ad-75db-4872-9ea7-e741f1bc43d1)
+
+Use conditional formatting to fill each cell in the outcome column with a different colour, depending on whether the associated campaign was successful, failed, cancelled, or is currently live.
+
+Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
 
 Use conditional formatting to fill each cell in the Percent Funded column according to a three-colour scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
 
